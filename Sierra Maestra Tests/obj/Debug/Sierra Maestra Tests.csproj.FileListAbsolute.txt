@@ -1,0 +1,9 @@
+C:\Users\Gontse\Documents\Visual Studio 2015\Projects\Sierra Maestra Tests\Sierra Maestra Tests\bin\Debug\Sierra Maestra Tests.dll
+C:\Users\Gontse\Documents\Visual Studio 2015\Projects\Sierra Maestra Tests\Sierra Maestra Tests\bin\Debug\Sierra Maestra Tests.pdb
+C:\Users\Gontse\Documents\Visual Studio 2015\Projects\Sierra Maestra Tests\Sierra Maestra Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Gontse\Documents\Visual Studio 2015\Projects\Sierra Maestra Tests\Sierra Maestra Tests\bin\Debug\WebDriver.dll
+C:\Users\Gontse\Documents\Visual Studio 2015\Projects\Sierra Maestra Tests\Sierra Maestra Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\Gontse\Documents\Visual Studio 2015\Projects\Sierra Maestra Tests\Sierra Maestra Tests\bin\Debug\WebDriver.xml
+C:\Users\Gontse\Documents\Visual Studio 2015\Projects\Sierra Maestra Tests\Sierra Maestra Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\Gontse\Documents\Visual Studio 2015\Projects\Sierra Maestra Tests\Sierra Maestra Tests\obj\Debug\Sierra Maestra Tests.dll
+C:\Users\Gontse\Documents\Visual Studio 2015\Projects\Sierra Maestra Tests\Sierra Maestra Tests\obj\Debug\Sierra Maestra Tests.pdb
